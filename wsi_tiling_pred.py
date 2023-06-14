@@ -4,8 +4,8 @@ purpose: tiling the WSI and make the prediction using parallel process
 author: Hongming Xu
 email: mxu@ualberta.ca
 
-modified by : Jinhwan Choi
-email:choi.jinhwan@mayo.edu
+modified by : Sumanth Reddy Nakkireddy
+email:nakkireddy.sumanthreddy@mayo.edu
 '''
 import time
 import torch
